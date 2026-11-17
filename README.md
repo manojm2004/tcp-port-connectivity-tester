@@ -1,2 +1,3 @@
-# tcp-port-connectivity-tester
-High-speed multi-threaded TCP/UDP port reachability and latency benchmarking tool for enterprise services.
+# 🌐 TCP / UDP Enterprise Service Connectivity Tester
+
+Diagnose firewall blocks and verify port-level connectivity from client subnets to critical servers.
